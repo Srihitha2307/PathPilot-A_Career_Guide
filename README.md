@@ -31,5 +31,5 @@ Students often struggle to choose careers that match their education, skills, an
 
 ## 📂 Full Documentation
 For complete details on **Objectives, Functional Requirements, Non-Functional Requirements, and Workflows**, see:  
-[Full Project Document](docs/PathPilot_Documentation.docx)  
+[Full Project Document](docs/PathPilot_)  
 
