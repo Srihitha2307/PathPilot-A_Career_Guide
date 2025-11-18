@@ -44,11 +44,11 @@ Students often struggle to choose careers that match their education, skills, an
 3.Sequence Diagram – flow of data between user, UI, engine, database, and APIs.
 4.Class Diagram – main classes (User, Profile, Career, College, Internship) and their relationships.
 5.ER Diagram – database entities (User, Profile, Career, College, Internship, Recommendation) with cardinalities.
-- [Use Case Diagram](design-diagrams/use-case.png)
-- [Workflow Diagram](design-diagrams/workflow.png)
-- [Sequence Diagram](design-diagrams/sequence.png)
-- [Class Diagram](design-diagrams/class.png)
-- [ER Diagram](design-diagrams/er.png)
+- [Use Case Diagram](DESIGN%20DIAGRAMS/USE%20CASE%20DIAGRAM.jpg)
+- [Workflow Diagram](DESIGN%20DIAGRAMS/WORKFLOW%20DIAGRAM.jpg)
+- [Sequence Diagram](DESIGN%20DIAGRAMS/SEQUENCE%20DIAGRAM.jpg)
+- [Class Diagram](DESIGN%20DIAGRAMS/CLASS%20DIAGRAM.jpg)
+- [ER Diagram](DESIGN%20DIAGRAMS/ER%20DIAGRAM.jpg)
 
 ---
 
