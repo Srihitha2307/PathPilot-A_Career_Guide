@@ -38,6 +38,18 @@ Students often struggle to choose careers that match their education, skills, an
   - Scalable and reliable (99% uptime, backups, recovery)  
   - User-friendly, accessible, and compatible across devices  
 
+## Design Diagrams
+1.Use Case Diagram – shows how students and admins interact with the system.
+2.Workflow Diagram – step‑by‑step process from login to career recommendations.
+3.Sequence Diagram – flow of data between user, UI, engine, database, and APIs.
+4.Class Diagram – main classes (User, Profile, Career, College, Internship) and their relationships.
+5.ER Diagram – database entities (User, Profile, Career, College, Internship, Recommendation) with cardinalities.
+- [Use Case Diagram](design-diagrams/use-case.png)
+- [Workflow Diagram](design-diagrams/workflow.png)
+- [Sequence Diagram](design-diagrams/sequence.png)
+- [Class Diagram](design-diagrams/class.png)
+- [ER Diagram](design-diagrams/er.png)
+
 ---
 
 ## 📂 Full Documentation
