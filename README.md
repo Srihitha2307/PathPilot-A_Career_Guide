@@ -1,4 +1,15 @@
 # PathPilot- A Career Guide
+## Table of Contents
+1. [Problem Statement](#problem-statement)
+2. [Key Challenges](#key-challenges)
+3. [Project Objectives](#project-objectives)
+4. [Functional Requirements](#functional-requirements)
+5. [Non-Functional Requirements](#non-functional-requirements)
+6. [Design Diagrams](#design-diagrams)
+7. [Implementation](#implementation)
+8. [Testing](#testing)
+9. [Full Documentation](#full-documentation)
+
 
 ## Problem Statement
 Students often struggle to choose careers that match their education, skills, and interests. Information is scattered, generic, and unreliable, making research confusing and time‑consuming. Without clear, personalized guidance, they risk poor decisions, missed opportunities, and uncertainty about costs, prospects, and long‑term growth.
