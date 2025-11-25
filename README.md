@@ -60,7 +60,7 @@ Appropriate Trainee/Internship Positions
 
  Run the primary Python file straight from the terminal:
 ```bash
- "srihitha's final project better version.py" in Python
+ "PATHPILOT.py" in Python
 ```
 ## Instructions for  for Testing
 1. Open the application:  Use the Python command to launch the application.
